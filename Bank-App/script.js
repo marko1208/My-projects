@@ -1,6 +1,5 @@
 'use strict';
 
-
 // Data
 const account1 = {
   owner: 'Jonas Schmedtmann',
@@ -230,3 +229,4 @@ btnClose.addEventListener('click', function (e) {
   }
   inputCloseUsername.value = inputClosePin.value = '';
 });
+
